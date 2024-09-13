@@ -37,10 +37,7 @@ void cypher(char* msg, int sft) {
 				}
 
 				msg[i] = ch;
-
-
-			
-
+			}
 		}
 	}
 }
